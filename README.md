@@ -58,6 +58,12 @@ My work is rooted in the belief that AI is most effective when it is transparent
 * **Methodology:** Handled complex data cleaning, feature engineering, and dimensionality reduction via **PCA**. Evaluated performance using AUC/ROC curves and KDE plots for confidence distribution.
 * **Tech:** Python, Scikit-learn, XGBoost, Seaborn.
 
+**🔹 Regression Analysis: Vehicle Fuel Efficiency Prediction**
+* **The Work:** Developed a series of linear regression models to predict fuel efficiency (MPG) using the Auto MPG dataset, focusing on model complexity and generalization.
+* **Research Focus:** Conducted a rigorous comparative study between Simple, Multiple, and Higher-order Polynomial regressions. I utilized Shrinkage Methods (Ridge and Lasso) to manage multicollinearity and prevent overfitting in high-dimensional feature spaces.
+* **Methodology:** Validated model performance through K-Fold and Leave-One-Out Cross-Validation (LOOCV). Analyzed the trade-off between RMSE and Adjusted R² across 8 different model variations to select the most robust architecture for unseen data.
+* **Tech Stack:** R, ggplot2, Statistical Modeling, Cross-Validation.
+
 ---
 
 ### 🛠️ Technical Toolkit
