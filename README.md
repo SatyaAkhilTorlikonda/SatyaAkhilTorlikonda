@@ -69,9 +69,12 @@ My work is rooted in the belief that AI is most effective when it is transparent
 
 ### 📊 Activity Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyaAkhilTorlikonda&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatyaAkhilTorlikonda&show_icons=true&theme=radical&hide_border=false" alt="Satya's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaAkhilTorlikonda&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ### 🔗 Connect With Me
