@@ -1,6 +1,6 @@
 # Satya Akhil Torlikonda
 <h1 align="center">Hi 👋, I'm Satya Akhil Torlikonda</h1>
-<h3 align="center">Data Scientist | Machine Learning Practitioner | PhD Aspirant</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer </h3>
 
 <p align="center">
   <i>"Focused on the intersection of signal processing and human-centered AI."</i>
